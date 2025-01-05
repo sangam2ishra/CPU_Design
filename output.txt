@@ -1,0 +1,1008 @@
+1
+0Getting fetched
+0 getting decoded
+I
+0
+idex.imm 000000000001
+alksdnfldsfk
+reg 0 is busy
+2
+1
+4Getting fetched
+3
+0Getting executed
+hello
+000000000001
+000000000001
+HI
+4 getting decoded
+I
+4
+idex.imm 000000001010
+alksdnfldsfk
+reg 1 is busy
+2
+1
+8Getting fetched
+4
+0Getting memory
+3
+4Getting executed
+hello
+000000001010
+000000001010
+HI
+Data Hazard
+5
+Writing in Reg 0
+0Getting writtenBack
+0 completed**********************************************************************************************
+4
+4Getting memory
+Data Hazard
+5
+Writing in Reg 1
+4Getting writtenBack
+4 completed**********************************************************************************************
+8 getting decoded
+I
+8
+idex.imm 000000000001
+alksdnfldsfk
+reg 1 is busy
+2
+1
+12Getting fetched
+3
+8Getting executed
+hello
+000000000001
+000000000001
+HI
+Data Hazard
+4
+8Getting memory
+Data Hazard
+5
+Writing in Reg 1
+8Getting writtenBack
+8 completed**********************************************************************************************
+12 getting decoded
+B
+12
+8
+idex.imm 000000001000
+alksdnfldsfk
+2
+3
+12Getting executed
+hello
+000000001000
+000000001000
+HI
+1
+16Getting fetched
+4
+12Getting memory
+16 getting decoded
+R
+16
+idex.imm 000000000000
+alksdnfldsfk
+reg 2 is busy
+2
+1
+20Getting fetched
+5
+12Getting writtenBack
+12 completed**********************************************************************************************
+3
+16Getting executed
+hello
+000000000000
+000000000000
+HI
+20 getting decoded
+I
+20
+idex.imm 000000000001
+alksdnfldsfk
+reg 0 is busy
+2
+1
+24Getting fetched
+4
+16Getting memory
+3
+20Getting executed
+hello
+000000000001
+000000000001
+HI
+Data Hazard
+5
+Writing in Reg 2
+16Getting writtenBack
+16 completed**********************************************************************************************
+4
+20Getting memory
+Data Hazard
+5
+Writing in Reg 0
+20Getting writtenBack
+20 completed**********************************************************************************************
+24 getting decoded
+B
+24
+4090
+idex.imm 111111111010
+alksdnfldsfk
+2
+3
+24Getting executed
+hello
+111111111010
+111111111010
+HI
+1
+12Getting fetched
+4
+24Getting memory
+12 getting decoded
+B
+12
+8
+idex.imm 000000001000
+alksdnfldsfk
+2
+5
+24Getting writtenBack
+24 completed**********************************************************************************************
+3
+12Getting executed
+hello
+000000001000
+000000001000
+HI
+1
+16Getting fetched
+4
+12Getting memory
+16 getting decoded
+R
+16
+idex.imm 000000000000
+alksdnfldsfk
+reg 2 is busy
+2
+1
+20Getting fetched
+5
+12Getting writtenBack
+12 completed**********************************************************************************************
+3
+16Getting executed
+hello
+000000000000
+000000000000
+HI
+20 getting decoded
+I
+20
+idex.imm 000000000001
+alksdnfldsfk
+reg 0 is busy
+2
+1
+24Getting fetched
+4
+16Getting memory
+3
+20Getting executed
+hello
+000000000001
+000000000001
+HI
+Data Hazard
+5
+Writing in Reg 2
+16Getting writtenBack
+16 completed**********************************************************************************************
+4
+20Getting memory
+Data Hazard
+5
+Writing in Reg 0
+20Getting writtenBack
+20 completed**********************************************************************************************
+24 getting decoded
+B
+24
+4090
+idex.imm 111111111010
+alksdnfldsfk
+2
+3
+24Getting executed
+hello
+111111111010
+111111111010
+HI
+1
+12Getting fetched
+4
+24Getting memory
+12 getting decoded
+B
+12
+8
+idex.imm 000000001000
+alksdnfldsfk
+2
+5
+24Getting writtenBack
+24 completed**********************************************************************************************
+3
+12Getting executed
+hello
+000000001000
+000000001000
+HI
+1
+16Getting fetched
+4
+12Getting memory
+16 getting decoded
+R
+16
+idex.imm 000000000000
+alksdnfldsfk
+reg 2 is busy
+2
+1
+20Getting fetched
+5
+12Getting writtenBack
+12 completed**********************************************************************************************
+3
+16Getting executed
+hello
+000000000000
+000000000000
+HI
+20 getting decoded
+I
+20
+idex.imm 000000000001
+alksdnfldsfk
+reg 0 is busy
+2
+1
+24Getting fetched
+4
+16Getting memory
+3
+20Getting executed
+hello
+000000000001
+000000000001
+HI
+Data Hazard
+5
+Writing in Reg 2
+16Getting writtenBack
+16 completed**********************************************************************************************
+4
+20Getting memory
+Data Hazard
+5
+Writing in Reg 0
+20Getting writtenBack
+20 completed**********************************************************************************************
+24 getting decoded
+B
+24
+4090
+idex.imm 111111111010
+alksdnfldsfk
+2
+3
+24Getting executed
+hello
+111111111010
+111111111010
+HI
+1
+12Getting fetched
+4
+24Getting memory
+12 getting decoded
+B
+12
+8
+idex.imm 000000001000
+alksdnfldsfk
+2
+5
+24Getting writtenBack
+24 completed**********************************************************************************************
+3
+12Getting executed
+hello
+000000001000
+000000001000
+HI
+1
+16Getting fetched
+4
+12Getting memory
+16 getting decoded
+R
+16
+idex.imm 000000000000
+alksdnfldsfk
+reg 2 is busy
+2
+1
+20Getting fetched
+5
+12Getting writtenBack
+12 completed**********************************************************************************************
+3
+16Getting executed
+hello
+000000000000
+000000000000
+HI
+20 getting decoded
+I
+20
+idex.imm 000000000001
+alksdnfldsfk
+reg 0 is busy
+2
+1
+24Getting fetched
+4
+16Getting memory
+3
+20Getting executed
+hello
+000000000001
+000000000001
+HI
+Data Hazard
+5
+Writing in Reg 2
+16Getting writtenBack
+16 completed**********************************************************************************************
+4
+20Getting memory
+Data Hazard
+5
+Writing in Reg 0
+20Getting writtenBack
+20 completed**********************************************************************************************
+24 getting decoded
+B
+24
+4090
+idex.imm 111111111010
+alksdnfldsfk
+2
+3
+24Getting executed
+hello
+111111111010
+111111111010
+HI
+1
+12Getting fetched
+4
+24Getting memory
+12 getting decoded
+B
+12
+8
+idex.imm 000000001000
+alksdnfldsfk
+2
+5
+24Getting writtenBack
+24 completed**********************************************************************************************
+3
+12Getting executed
+hello
+000000001000
+000000001000
+HI
+1
+16Getting fetched
+4
+12Getting memory
+16 getting decoded
+R
+16
+idex.imm 000000000000
+alksdnfldsfk
+reg 2 is busy
+2
+1
+20Getting fetched
+5
+12Getting writtenBack
+12 completed**********************************************************************************************
+3
+16Getting executed
+hello
+000000000000
+000000000000
+HI
+20 getting decoded
+I
+20
+idex.imm 000000000001
+alksdnfldsfk
+reg 0 is busy
+2
+1
+24Getting fetched
+4
+16Getting memory
+3
+20Getting executed
+hello
+000000000001
+000000000001
+HI
+Data Hazard
+5
+Writing in Reg 2
+16Getting writtenBack
+16 completed**********************************************************************************************
+4
+20Getting memory
+Data Hazard
+5
+Writing in Reg 0
+20Getting writtenBack
+20 completed**********************************************************************************************
+24 getting decoded
+B
+24
+4090
+idex.imm 111111111010
+alksdnfldsfk
+2
+3
+24Getting executed
+hello
+111111111010
+111111111010
+HI
+1
+12Getting fetched
+4
+24Getting memory
+12 getting decoded
+B
+12
+8
+idex.imm 000000001000
+alksdnfldsfk
+2
+5
+24Getting writtenBack
+24 completed**********************************************************************************************
+3
+12Getting executed
+hello
+000000001000
+000000001000
+HI
+1
+16Getting fetched
+4
+12Getting memory
+16 getting decoded
+R
+16
+idex.imm 000000000000
+alksdnfldsfk
+reg 2 is busy
+2
+1
+20Getting fetched
+5
+12Getting writtenBack
+12 completed**********************************************************************************************
+3
+16Getting executed
+hello
+000000000000
+000000000000
+HI
+20 getting decoded
+I
+20
+idex.imm 000000000001
+alksdnfldsfk
+reg 0 is busy
+2
+1
+24Getting fetched
+4
+16Getting memory
+3
+20Getting executed
+hello
+000000000001
+000000000001
+HI
+Data Hazard
+5
+Writing in Reg 2
+16Getting writtenBack
+16 completed**********************************************************************************************
+4
+20Getting memory
+Data Hazard
+5
+Writing in Reg 0
+20Getting writtenBack
+20 completed**********************************************************************************************
+24 getting decoded
+B
+24
+4090
+idex.imm 111111111010
+alksdnfldsfk
+2
+3
+24Getting executed
+hello
+111111111010
+111111111010
+HI
+1
+12Getting fetched
+4
+24Getting memory
+12 getting decoded
+B
+12
+8
+idex.imm 000000001000
+alksdnfldsfk
+2
+5
+24Getting writtenBack
+24 completed**********************************************************************************************
+3
+12Getting executed
+hello
+000000001000
+000000001000
+HI
+1
+16Getting fetched
+4
+12Getting memory
+16 getting decoded
+R
+16
+idex.imm 000000000000
+alksdnfldsfk
+reg 2 is busy
+2
+1
+20Getting fetched
+5
+12Getting writtenBack
+12 completed**********************************************************************************************
+3
+16Getting executed
+hello
+000000000000
+000000000000
+HI
+20 getting decoded
+I
+20
+idex.imm 000000000001
+alksdnfldsfk
+reg 0 is busy
+2
+1
+24Getting fetched
+4
+16Getting memory
+3
+20Getting executed
+hello
+000000000001
+000000000001
+HI
+Data Hazard
+5
+Writing in Reg 2
+16Getting writtenBack
+16 completed**********************************************************************************************
+4
+20Getting memory
+Data Hazard
+5
+Writing in Reg 0
+20Getting writtenBack
+20 completed**********************************************************************************************
+24 getting decoded
+B
+24
+4090
+idex.imm 111111111010
+alksdnfldsfk
+2
+3
+24Getting executed
+hello
+111111111010
+111111111010
+HI
+1
+12Getting fetched
+4
+24Getting memory
+12 getting decoded
+B
+12
+8
+idex.imm 000000001000
+alksdnfldsfk
+2
+5
+24Getting writtenBack
+24 completed**********************************************************************************************
+3
+12Getting executed
+hello
+000000001000
+000000001000
+HI
+1
+16Getting fetched
+4
+12Getting memory
+16 getting decoded
+R
+16
+idex.imm 000000000000
+alksdnfldsfk
+reg 2 is busy
+2
+1
+20Getting fetched
+5
+12Getting writtenBack
+12 completed**********************************************************************************************
+3
+16Getting executed
+hello
+000000000000
+000000000000
+HI
+20 getting decoded
+I
+20
+idex.imm 000000000001
+alksdnfldsfk
+reg 0 is busy
+2
+1
+24Getting fetched
+4
+16Getting memory
+3
+20Getting executed
+hello
+000000000001
+000000000001
+HI
+Data Hazard
+5
+Writing in Reg 2
+16Getting writtenBack
+16 completed**********************************************************************************************
+4
+20Getting memory
+Data Hazard
+5
+Writing in Reg 0
+20Getting writtenBack
+20 completed**********************************************************************************************
+24 getting decoded
+B
+24
+4090
+idex.imm 111111111010
+alksdnfldsfk
+2
+3
+24Getting executed
+hello
+111111111010
+111111111010
+HI
+1
+12Getting fetched
+4
+24Getting memory
+12 getting decoded
+B
+12
+8
+idex.imm 000000001000
+alksdnfldsfk
+2
+5
+24Getting writtenBack
+24 completed**********************************************************************************************
+3
+12Getting executed
+hello
+000000001000
+000000001000
+HI
+1
+16Getting fetched
+4
+12Getting memory
+16 getting decoded
+R
+16
+idex.imm 000000000000
+alksdnfldsfk
+reg 2 is busy
+2
+1
+20Getting fetched
+5
+12Getting writtenBack
+12 completed**********************************************************************************************
+3
+16Getting executed
+hello
+000000000000
+000000000000
+HI
+20 getting decoded
+I
+20
+idex.imm 000000000001
+alksdnfldsfk
+reg 0 is busy
+2
+1
+24Getting fetched
+4
+16Getting memory
+3
+20Getting executed
+hello
+000000000001
+000000000001
+HI
+Data Hazard
+5
+Writing in Reg 2
+16Getting writtenBack
+16 completed**********************************************************************************************
+4
+20Getting memory
+Data Hazard
+5
+Writing in Reg 0
+20Getting writtenBack
+20 completed**********************************************************************************************
+24 getting decoded
+B
+24
+4090
+idex.imm 111111111010
+alksdnfldsfk
+2
+3
+24Getting executed
+hello
+111111111010
+111111111010
+HI
+1
+12Getting fetched
+4
+24Getting memory
+12 getting decoded
+B
+12
+8
+idex.imm 000000001000
+alksdnfldsfk
+2
+5
+24Getting writtenBack
+24 completed**********************************************************************************************
+3
+12Getting executed
+hello
+000000001000
+000000001000
+HI
+1
+16Getting fetched
+4
+12Getting memory
+16 getting decoded
+R
+16
+idex.imm 000000000000
+alksdnfldsfk
+reg 2 is busy
+2
+1
+20Getting fetched
+5
+12Getting writtenBack
+12 completed**********************************************************************************************
+3
+16Getting executed
+hello
+000000000000
+000000000000
+HI
+20 getting decoded
+I
+20
+idex.imm 000000000001
+alksdnfldsfk
+reg 0 is busy
+2
+1
+24Getting fetched
+4
+16Getting memory
+3
+20Getting executed
+hello
+000000000001
+000000000001
+HI
+Data Hazard
+5
+Writing in Reg 2
+16Getting writtenBack
+16 completed**********************************************************************************************
+4
+20Getting memory
+Data Hazard
+5
+Writing in Reg 0
+20Getting writtenBack
+20 completed**********************************************************************************************
+24 getting decoded
+B
+24
+4090
+idex.imm 111111111010
+alksdnfldsfk
+2
+3
+24Getting executed
+hello
+111111111010
+111111111010
+HI
+1
+12Getting fetched
+4
+24Getting memory
+12 getting decoded
+B
+12
+8
+idex.imm 000000001000
+alksdnfldsfk
+2
+5
+24Getting writtenBack
+24 completed**********************************************************************************************
+3
+12Getting executed
+hello
+000000001000
+000000001000
+HI
+1
+28Getting fetched
+4
+12Getting memory
+28 getting decoded
+S
+28
+0
+idex.imm 000000000000
+alksdnfldsfk
+Store detected>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2
+1
+32Getting fetched
+5
+12Getting writtenBack
+12 completed**********************************************************************************************
+3
+28Getting executed
+hello
+000000000000
+000000000000
+HI
+32 getting decoded
+I
+32
+idex.imm 000000000000
+alksdnfldsfk
+reg 2 is busy
+2
+4
+28Getting memory
+3
+32Getting executed
+hello
+000000000000
+000000000000
+HI
+5
+28Getting writtenBack
+28 completed**********************************************************************************************
+4
+32Getting memory
+5
+Writing in Reg 2
+32Getting writtenBack
+32 completed**********************************************************************************************
+COMPLETED
+GPR values:
+x0: 11
+x1: 11
+x2: 55
+x3: 0
+x4: 0
+x5: 0
+x6: 0
+x7: 0
+x8: 0
+x9: 0
+x10: 0
+x11: 0
+x12: 0
+x13: 0
+x14: 0
+x15: 0
+x16: 0
+x17: 0
+x18: 0
+x19: 0
+x20: 0
+x21: 0
+x22: 0
+x23: 0
+x24: 0
+x25: 0
+x26: 0
+x27: 0
+x28: 0
+x29: 0
+x30: 0
+x31: 0
+
+
+Data Memory:
+Address: 0, Value: 55
+size of data memory=1
